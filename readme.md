@@ -20,9 +20,9 @@
 
 ### 结果展示
 
-![](https://github.com/wb-finalking/panorama_stitch/blob/master/result.jpg?raw=true)
+![](https://github.com/wb-finalking/panorama_stitch/blob/master/CV_hw_qt/res/res0.jpg?raw=true)
 
-![](https://github.com/wb-finalking/panorama_stitch/blob/master/res1.jpg?raw=true)
+![](https://github.com/wb-finalking/panorama_stitch/blob/master/CV_hw_qt/res/res2.jpg?raw=true)
 
 
 

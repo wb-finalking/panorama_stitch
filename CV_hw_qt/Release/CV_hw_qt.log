@@ -1,0 +1,24 @@
+﻿生成启动时间为 2018/1/29 22:49:55。
+     1>项目“D:\project\CV_hw_qt\CV_hw_qt\CV_hw_qt.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\program\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\program\QT5.8\5.8\msvc2013\include /I.\GeneratedFiles\Release /ID:\program\QT5.8\5.8\msvc2013\include\QtCore /ID:\program\QT5.8\5.8\msvc2013\include\QtGui /ID:\program\QT5.8\5.8\msvc2013\include\QtWidgets /I"D:\project\opencv-2.4.13.4\include" /I"D:\project\opencv-2.4.13.4\include\opencv2" /I"D:\project\opencv-2.4.13.4\include\opencv" /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stitch.cpp
+         stitch.cpp
+     1>d:\project\cv_hw_qt\cv_hw_qt\CImg.h(125): warning C4005: “_CRT_SECURE_NO_DEPRECATE”: 宏重定义
+                 D:\project\opencv-2.4.13.4\include\opencv2/core/types_c.h(57) : 参见“_CRT_SECURE_NO_DEPRECATE”的前一个定义
+     1>d:\project\cv_hw_qt\cv_hw_qt\CImg.h(126): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+                 D:\program\Microsoft Visual Studio 12.0\VC\include\crtdefs.h(280) : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+       Link:
+         D:\program\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\CV_hw_qt\Win32\Release\\CV_hw_qt.exe" /NOLOGO /LIBPATH:D:\program\QT5.8\5.8\msvc2013\lib /LIBPATH:"D:\project\opencv-2.4.13.4\build\lib\Release" qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib opencv_imgproc2413.lib opencv_calib3d2413.lib opencv_contrib2413.lib opencv_core2413.lib opencv_features2d2413.lib opencv_flann2413.lib opencv_gpu2413.lib opencv_highgui2413.lib opencv_legacy2413.lib opencv_ml2413.lib opencv_nonfree2413.lib opencv_objdetect2413.lib opencv_ocl2413.lib opencv_photo2413.lib opencv_stitching2413.lib opencv_superres2413.lib opencv_ts2413.lib opencv_video2413.lib opencv_videostab2413.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:\project\CV_hw_qt\Win32\Release\CV_hw_qt.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\CV_hw_qt\Win32\Release\CV_hw_qt.lib" /MACHINE:X86 /SAFESEH Release\FileReading.obj
+         Release\qrc_mainwindow.obj
+         Release\moc_mainwindow.obj
+         Release\moc_Paint.obj
+         Release\main.obj
+         Release\mainwindow.obj
+         Release\Paint.obj
+         Release\stitch.obj
+         CV_hw_qt.vcxproj -> D:\project\CV_hw_qt\Win32\Release\CV_hw_qt.exe
+     1>已完成生成项目“D:\project\CV_hw_qt\CV_hw_qt\CV_hw_qt.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.08
